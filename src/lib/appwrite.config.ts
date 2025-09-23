@@ -1,5 +1,5 @@
-import { ENDPOINT, PROJECTID } from "@/contants/env.file";
-import { Client } from "appwrite";
+import { ENDPOINT, PROJECTID } from '@/contants/env.file';
+import { Client } from 'appwrite';
 
 const client = new Client();
 
